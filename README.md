@@ -1,1 +1,1 @@
-# step-by-step-build-retrieval-augmented-generative-ai
+# Step-by-step to Build a Retrieval Augmented Generation Solution
