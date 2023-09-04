@@ -1,9 +1,9 @@
-Prerequisits:
+### Prerequisits:
 1. Clone the code into Ubuntu Linux
 2. Install python packages PyPDF2, textract: https://textract.readthedocs.io/en/stable/
-2. Install langchain
+3. Install langchain
 
-
+### Step by step to build the solution:
 1. Create emebdding model SageMaker endpoint. Go to SageMaker jumpstart to create an embedding model. In our testing, we used "jumpstart-dft-mx-tcembedding-robertafin-large-uncased" as the SageMaker endpoint.
 
 2. Put your PDF file in data folder
